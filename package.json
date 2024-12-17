@@ -1,0 +1,22 @@
+{
+  "name": "coffee-manager",
+  "version": "1.0.0",
+  "description": "a simple coffee manager",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+    
+  },
+  "keywords": [
+    "express",
+    "coffee"
+  ],
+  "author": "Paula Watkins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.7"
+  }
+}
